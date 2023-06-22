@@ -2,9 +2,9 @@ package topinterview150.HashMap;
 
 import java.util.*;
 
-public class Anagram {
+public class Solution242 {
     public static void main(String[] args) {
-        Anagram obj = new Anagram();
+        Solution242 obj = new Solution242();
         System.out.println(obj.isAnagram1("anagram", "nagarqam"));
     }
 
