@@ -6,7 +6,7 @@ public class Q1_Palindrome {
         System.out.println(obj.isPalindrome("A man, a plan, a canal: Panama"));
     }
 
-    public boolean isPalindrome(String s ) {
+    public boolean isPalindrome(String s) {
         String str = s.toLowerCase();
         int j = str.length() - 1;
         for (int i = 0; i < str.length(); i++) {
