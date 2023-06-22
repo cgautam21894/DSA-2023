@@ -1,10 +1,8 @@
 package topinterview150.Array;
 
-import java.util.*;
-
-public class Solution_12 {
+public class Solution12 {
     public static void main(String[] args) {
-        Solution_12 obj = new Solution_12();
+        Solution12 obj = new Solution12();
         obj.intToRoman(1994);
 
     }
