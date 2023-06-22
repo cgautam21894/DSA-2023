@@ -5,7 +5,7 @@ public class Q1_Palindrome {
         Q1_Palindrome obj = new Q1_Palindrome();
         System.out.println(obj.isPalindrome("A man, a plan, a canal: Panama"));
     }
-
+//test
     public boolean isPalindrome(String s) {
         String str = s.toLowerCase();
         int j = str.length() - 1;
